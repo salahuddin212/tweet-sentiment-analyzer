@@ -19,13 +19,6 @@ This is a NLP project built in Python that analyzes the sentiment of tweets and 
 - TextBlob  
 - Matplotlib
 
-## 📁 Project Structure
-tweet_sentiment/ ├── tweets.csv # Sample tweets
-├── sentiment_analysis.py # Main script
-├── tweets_with_sentiment.csv # Output with sentiment and emoji
-├── sentiment_plot.png # Saved chart image
-├── requirements.txt # Dependencies
-└── README.md # Project info
 
 
 ## 🚀 Getting Started
